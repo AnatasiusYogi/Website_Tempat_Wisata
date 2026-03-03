@@ -1,2 +1,2 @@
-# iseng
-rekomendasi tempat wisata
+# Rekomendasi Tempat Wisata
+Project saat menjalani perkuliahan
